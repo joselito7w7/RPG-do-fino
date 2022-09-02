@@ -1,0 +1,40 @@
+h1{font-family: Arial, Helvetica, sans-serif;
+    color:#FF0000;
+    font-size: 50px;
+    font-style: italic;
+    font-variant: small-caps;
+    text-align: center;
+
+
+}
+
+.minhaClasse{
+    color:blue;
+}
+
+strong{
+    text-decoration: underline;
+}
+
+#vermelho{
+    text-indent:10pt;
+}
+body{
+    background-color: black;
+}
+h2{
+    color:purple;
+
+}
+p{
+    color:white;
+}
+h3{
+    color: white;
+}
+li{
+    color: red;
+}
+#fim{
+    color: red;
+}
